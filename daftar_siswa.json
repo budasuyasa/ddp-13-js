@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Ridwan",
+    "kelas": "6",
+    "jk": "Laki-Laki",
+    "hobi": [
+      "main games"
+    ]
+  },
+  {
+    "nama": "Made Kopling",
+    "kelas": "9",
+    "jk": "Laki-Laki",
+    "hobi": [
+      "main games"
+    ]
+  },
+  {
+    "nama": "Robi",
+    "kelas": "8",
+    "jk": "Laki-Laki",
+    "hobi": "Baca"
+  }
+]
